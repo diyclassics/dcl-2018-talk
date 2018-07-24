@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 jupyter = "*"
 nltk = "*"
+cltk = {editable = true, ref = "lemma-update", git = "https://github.com/diyclassics/cltk.git"}
+lxml = "*"
+betacode = "*"
+pygtrie = "*"
 
 [dev-packages]
 
