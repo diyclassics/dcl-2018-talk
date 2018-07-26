@@ -48,7 +48,7 @@
         "cltk": {
             "editable": true,
             "git": "https://github.com/diyclassics/cltk.git",
-            "ref": "cd08955694da3173be344b05fc6c5ee45cf46246"
+            "ref": "9e288de75a5e4c100c2b16e8f3955ecd5309d5b0"
         },
         "decorator": {
             "hashes": [
