@@ -9,9 +9,9 @@ nltk = "*"
 lxml = "*"
 betacode = "*"
 pygtrie = "*"
-cltk = {editable = true, ref = "lemma-update", git = "https://github.com/diyclassics/cltk.git"}
+cltk = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
